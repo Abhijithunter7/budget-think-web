@@ -335,13 +335,13 @@ export default function App() {
       {/* --- PAGE 5: FOOTER --- */}
       <section className="h-screen w-screen snap-start flex items-center justify-center p-8">
         <div className="bg-white/5 backdrop-blur border border-white/10 rounded-2xl p-12 text-center max-w-2xl w-full shadow-2xl">
-          <h2 className="text-4xl font-bold mb-6">Ready to Publish?</h2>
+          <h2 className="text-4xl font-bold mb-6">Thank you</h2>
           <p className="text-lg text-slate-300 mb-8">
-            The "Budget Think" framework addresses a critical gap in Green AI. 
-            Targeting <strong>IEEE INDICON</strong> offers the best balance of timeline and prestige for this academic year.
+            "Civilization advances by extending the number of important operations which we can perform without thinking about them." 
+            — Alfred North Whitehead (Mathematician & Philosopher)
           </p>
           <button className="bg-green-400 hover:bg-white text-black font-bold py-4 px-8 rounded-full shadow-[0_0_20px_rgba(57,255,20,0.4)] hover:shadow-[0_0_40px_rgba(255,255,255,0.6)] transition-all duration-300 flex items-center gap-3 mx-auto text-lg">
-            Download Abstract Template <Download size={20} />
+            🎯 <Download size={20} />
           </button>
           <div className="mt-12 text-slate-600 text-sm">
             &copy; 2026 Abhijit Rul | Goa University
